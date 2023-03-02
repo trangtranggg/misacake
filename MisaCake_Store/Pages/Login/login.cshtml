@@ -1,146 +1,127 @@
-﻿@page
+﻿@page "/login"
 @model MisaCake_Store.Pages.Shared.loginModel
 @{
 }
 
+<!-- Body of Form starts -->
+<div class="login-box">
+    <h2>Login</h2>
+    <div style="color: red">@Model.err</div>
+    <form asp-page="login" asp-page-handler="Login" method="post" autocomplete="on">
+        <!---Email ID---->
+        <div class="user-box">
+            <div class="fr">
+                <input type="email" required name="username" placeholder="Username" class="textBox">
+            </div>
+        </div>
+        <!--Email ID----->
+        <!---Password------>
+        <div class="user-box">
+            <div class="fr">
+                <input type="Password" required name="password" placeholder="Password" class="textBox">
+            </div>
+        </div>
 
-    <!-- Body of Form starts -->
-    <div class="container">
-        <p>Log In</p>
-         <div style="color: red">@Model.err</div>
-        <form method="post" action="Login" autocomplete="on">
-            <!---Email ID---->
-            <div class="box">
-                <label for="email" class="fl fontLabel"> Email</label>
-                <div class="fr">
-                    <input type="email" required name="email" placeholder="Email" class="textBox">
-                </div>
-                <div class="clr"></div>
-            </div>
-            <!--Email ID----->
-            <!---Password------>
-            <div class="box">
-                <label for="password" class="fl fontLabel"> @Model. </label>
-                <div class="fr">
-                    <input type="Password" required name="password" placeholder="Password" class="textBox">
-                </div>
-                <div class="clr"></div>
-            </div>
-            <!---Password---->
-    
-            <!---Submit Button------>
-            <div class="box" style="background: #2d3e3f">
-                <input type="Submit" name="submit" class="submit" value="SUBMIT">
-            </div>
-            <!---Submit Button----->
-        </form>
-        
-    </div>
-    <!--Body of Form ends--->
+        <!---Submit Button------>
+        <div class="box">
+            <button type="Submit" name="submit" class="submit" value="SUBMIT">SUBMIT</button>
+        </div>
+        <!---Submit Button----->
+    </form>
 
+</div>
+<!--Body of Form ends--->
 <style>
-    * {
-        padding: 0;
-        margin: 0;
+    html {
+        height: 100%;
     }
 
     body {
-        background: url(http://wrbbradio.org/wp-content/uploads/2016/10/grey-background-07.jpg) no-repeat center fixed;
-        background-size: cover;
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        background: linear-gradient(#141e30, #243b55);
     }
-    p {
-    font-weight: 500;
-    color: #fff;
-    opacity: 0.7;
-    font-size: 1.4rem;
-    margin-top: 0;
-    margin-bottom: 20px;
-    text-align: center;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-  }
-    .container {
-        background: #2d3e3f;
-        width: 350px;
-        height: 200px;
-        padding-bottom: 20px;
+
+    .login-box {
         position: absolute;
         top: 50%;
         left: 50%;
+        width: 400px;
+        padding: 40px;
         transform: translate(-50%, -50%);
-        margin: auto;
-        padding: 70px 50px 20px 50px;
+        background: rgba(0,0,0,.5);
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0,0,0,.6);
+        border-radius: 10px;
     }
 
+        .login-box h2 {
+            margin: 0 0 30px;
+            padding: 0;
+            color: #fff;
+            text-align: center;
+        }
 
-    .fl {
-        float: left;
-        width: 110px;
-        line-height: 35px;
-    }
+        .login-box .user-box {
+            position: relative;
+        }
 
-    .fontLabel {
-        color: white;
-    }
+            .login-box .user-box input {
+                width: 100%;
+                padding: 10px 0;
+                font-size: 16px;
+                color: #fff;
+                margin-bottom: 30px;
+                border: none;
+                border-bottom: 1px solid #fff;
+                outline: none;
+                background: transparent;
+            }
 
+            .login-box .user-box label {
+                position: absolute;
+                top: 0;
+                left: 0;
+                padding: 10px 0;
+                font-size: 16px;
+                color: #fff;
+                pointer-events: none;
+                transition: .5s;
+            }
 
-    .clr {
-        clear: both;
-    }
+            .login-box .user-box input:focus ~ label,
+            .login-box .user-box input:valid ~ label {
+                top: -20px;
+                left: 0;
+                color: #03e9f4;
+                font-size: 12px;
+            }
 
-    .box {
-        width: 360px;
-        height: 35px;
-        margin-top: 10px;
-        font-family: verdana;
-        font-size: 12px;
-    }
+        .login-box form button {
+            position: relative;
+            display: inline-block;
+            padding: 10px 20px;
+            color: black;
+            font-size: 16px;
+            text-decoration: none;
+            text-transform: uppercase;
+            overflow: hidden;
+            transition: .5s;
+            margin-top: 40px;
+            letter-spacing: 4px
+        }
 
-    .textBox {
-        height: 35px;
-        width: 250px;
-        border: none;
-        padding-left: 20px;
-    }
+        .login-box button:hover {
+            background: #03e9f4;
+            color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 5px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4, 0 0 100px #03e9f4;
+        }
 
-    .new {
-        float: left;
-    }
-
-    .iconBox {
-        height: 35px;
-        width: 40px;
-        line-height: 38px;
-        text-align: center;
-        background: #ff6600;
-        padding-top: 8px;
-    }
-
-    .radio {
-        color: white;
-        background: #2d3e3f;
-        line-height: 38px;
-    }
-
-    .terms {
-        line-height: 35px;
-        text-align: center;
-        background: #2d3e3f;
-        color: white;
-    }
-
-    .submit {
-        float: right;
-        border: none;
-        color: white;
-        width: 110px;
-        height: 35px;
-        background: #ff6600;
-        text-transform: uppercase;
-        cursor: pointer;
-        margin-top:25px;
-    }
-
-    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-    }
+        .login-box button span {
+            position: absolute;
+            display: block;
+        }
 
 </style>

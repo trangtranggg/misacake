@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pkpr5KOPfmkB7YpWA52raF04GbwqZoKr8qFQLq5V/ybDFQFUx90cZJZGG3wLb6ZOzoJu8YyG7R6aHbRuBgTINQ==",
+  "dgSpecHash": "qP+IA6l8LXWIkTIUTWodirgHWExQmSCwHsVQGYzGuI2TtpyItaL2yUgZ0rhyn+x7++Ad1XItxCJXRj5zcMOFvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
   "expectedPackageFiles": [
@@ -33,6 +33,7 @@
     "C:\\Users\\buitr\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\buitr\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\buitr\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\buitr\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
     "C:\\Users\\buitr\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\buitr\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\buitr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
