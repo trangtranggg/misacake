@@ -1,0 +1,419 @@
+﻿++Solution 'MisaCake_Store' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MisaCake_Store.sln
+++MisaCake_Store
+i:{00000000-0000-0000-0000-000000000000}:MisaCake_Store
+++Connected Services 
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>613
+++Dependencies
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>612
+++Properties
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\properties\
+++wwwroot
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\
+++css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\css\
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\
+++bootstrap.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\bootstrap.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++font-awesome.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\font-awesome.min.css
+++responsive.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\responsive.css
+++site.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\site.css
+++style.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\style.css
+++style.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\style.css.map
+++style.scss
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\css\style.scss
+++images
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\
+++js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\js\
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\
+++favicon.ico
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\favicon.ico
+++DBContext
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\dbcontext\
+++DBContext.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\dbcontext\dbcontext.cs
+++fonts
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\fonts\
+++fontawesome-webfont.ttf
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\fonts\fontawesome-webfont.woff2
+++Model
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\
+++Pages
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\
+++Service
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\service\
+++appsettings.Development.json
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\appsettings.development.json
+++appsettings.json
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\appsettings.json
+++Program.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\program.cs
+++No service dependencies discovered
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>614
+++Analyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:analyzers
+++Frameworks
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:frameworks
+++Packages
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:packages
+++launchSettings.json
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\properties\launchsettings.json
+++cart
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cart\
+++details
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\
+++about-img.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\about-img.png
+++animal-cakes__62105.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\animal-cakes__62105.original.jpg
+++biscuit-1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\biscuit-1.jpg
+++biscuit-2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\biscuit-2.jpg
+++biscuit-3.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\biscuit-3.jpg
+++biscuit-4.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\biscuit-4.jpg
+++boys-biirthday-cakes-2022__72881.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\boys-biirthday-cakes-2022__72881.original.jpg
+++c1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\c1.jpg
+++c2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\c2.jpg
+++c3.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\c3.jpg
+++cakes-for-dad__74101.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cakes-for-dad__74101.original.jpg
+++cakes-with-toys-2022__98466.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cakes-with-toys-2022__98466.original.jpg
+++client1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\client1.jpg
+++client2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\client2.jpg
+++favicon.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\favicon.png
+++girls-birthday-cakes-2022__90623.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\girls-birthday-cakes-2022__90623.original.jpg
+++handbag-and-shoe-cakes__37886.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\handbag-and-shoe-cakes__37886.original.jpg
+++number-cakes__72287.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\number-cakes__72287.original.jpg
+++p1.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p1.png
+++p2.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p2.png
+++p3.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p3.png
+++p4.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p4.png
+++p5.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p5.png
+++p6.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p6.png
+++p7.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p7.png
+++p8.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\p8.png
+++product-1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-1.jpg
+++product-10.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-10.jpg
+++product-11.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-11.jpg
+++product-12.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-12.jpg
+++product-2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-2.jpg
+++product-3.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-3.jpg
+++product-4.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-4.jpg
+++product-5.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-5.jpg
+++product-6.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-6.jpg
+++product-7.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-7.jpg
+++product-8.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-8.jpg
+++product-9.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\product-9.jpg
+++slider-img.png
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\slider-img.png
+++teen-birthday-cakes__71454.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\teen-birthday-cakes__71454.original.jpg
+++toddler-cakes-2022__69166.original.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\toddler-cakes-2022__69166.original.jpg
+++bootstrap.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\js\bootstrap.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++custom.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\js\custom.js
+++jquery-3.4.1.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\js\jquery-3.4.1.min.js
+++site.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\js\site.js
+++bootstrap
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\
+++jquery
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery\
+++jquery-validation
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation-unobtrusive\
+++Brand.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\brand.cs
+++Cake.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\cake.cs
+++Cake_SellerContext.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\cake_sellercontext.cs
+++Comment.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\comment.cs
+++Maker.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\maker.cs
+++Order.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\order.cs
+++OrderDetail.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\orderdetail.cs
+++Type.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\type.cs
+++UserAccount.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\useraccount.cs
+++Login
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\login\
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\service\login\
+++Shared
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\shared\
+++_ViewImports.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\_viewstart.cshtml
+++Error.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\error.cshtml
+++Error.cshtml.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\error.cshtml.cs
+++Index.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\index.cshtml
+++Index.cshtml.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\index.cshtml.cs
+++Privacy.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\privacy.cshtml
+++Privacy.cshtml.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\privacy.cshtml.cs
+++Microsoft.AspNetCore.Analyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.13)
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>625
+++Microsoft.EntityFrameworkCore.Design (6.0.13)
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>627
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.13)
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>626
+++Microsoft.EntityFrameworkCore.Tools (6.0.13)
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>629
+++Newtonsoft.Json (13.0.2)
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:>628
+++cart-1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cart\cart-1.jpg
+++cart-2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cart\cart-2.jpg
+++cart-3.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cart\cart-3.jpg
+++cart-4.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\cart\cart-4.jpg
+++product-big-1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\product-big-1.jpg
+++product-big-2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\product-big-2.jpg
+++product-big-3.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\product-big-3.jpg
+++product-big-4.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\product-big-4.jpg
+++product-big-5.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\product-big-5.jpg
+++thumb-1.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\thumb-1.jpg
+++thumb-2.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\thumb-2.jpg
+++thumb-3.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\thumb-3.jpg
+++thumb-4.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\thumb-4.jpg
+++thumb-5.jpg
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\images\details\thumb-5.jpg
+++dist
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery\dist\
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery\license.txt
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++login.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\login\login.cshtml
+++login.cshtml.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\login\login.cshtml.cs
+++_Layout.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\shared\_layout.cshtml
+++_Layout.cshtml.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\shared\_layout.cshtml.css
+++_ValidationScriptsPartial.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\shared\_validationscriptspartial.cshtml
+++loginService.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\service\login\loginservice.cs
+++jquery.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery\dist\jquery.js
+++jquery.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery\dist\jquery.min.js
+++jquery.min.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery\dist\jquery.min.map
+++additional-methods.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++additional-methods.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bootstrap.js.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++NewFolder
+++Product
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\product\
+++Product.razor
+++Product.cshtml
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\product\product.cshtml
+++Product.cshtml.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\pages\product\product.cshtml.cs
+++_Paging.cshtml
+++_Paging.cshtml.cs
+++CartItem.cs
+i:{1a5e0114-2b01-4693-b16a-432f9dbbc968}:c:\users\buitr\documents\ky 7\prn221\misacake_store\misacake_store\model\cartitem.cs

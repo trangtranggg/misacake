@@ -7,7 +7,6 @@ builder.Services.AddRazorPages().WithRazorPagesRoot("/Pages");
 //{
 //    option.Conventions.AddPageRoute("/home", "");
 //});
-
 builder.Services.AddDistributedMemoryCache();
 
 //add session for 1800s = 10mins

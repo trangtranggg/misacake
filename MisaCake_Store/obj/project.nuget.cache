@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qP+IA6l8LXWIkTIUTWodirgHWExQmSCwHsVQGYzGuI2TtpyItaL2yUgZ0rhyn+x7++Ad1XItxCJXRj5zcMOFvQ==",
+  "dgSpecHash": "GzqVGwtvQU/Bb0k28yk7k2hAt+ID/9HZ7C4429BDLnlHaqE9XW2aeR8tLT+02ldQl3nUeSfewwGOdXg60tXwvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
+  "projectFilePath": "D:\\PRN221Exercise\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\buitr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\buitr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

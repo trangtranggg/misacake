@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj": {}
+    "D:\\PRN221Exercise\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj": {
+    "D:\\PRN221Exercise\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
+        "projectUniqueName": "D:\\PRN221Exercise\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
         "projectName": "MisaCake_Store",
-        "projectPath": "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
+        "projectPath": "D:\\PRN221Exercise\\MisaCake_Store\\MisaCake_Store\\MisaCake_Store.csproj",
         "packagesPath": "C:\\Users\\buitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\buitr\\Documents\\Ky 7\\PRN221\\MisaCake_Store\\MisaCake_Store\\obj\\",
+        "outputPath": "D:\\PRN221Exercise\\MisaCake_Store\\MisaCake_Store\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\buitr\\AppData\\Roaming\\NuGet\\NuGet.Config",

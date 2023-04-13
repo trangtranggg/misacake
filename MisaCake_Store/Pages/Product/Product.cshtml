@@ -46,6 +46,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg custom_nav-container ">
                     <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.html">
                         <span>
                             Misa Cakkery
                         </span>
@@ -150,6 +151,7 @@
             <div class="row">
                 @foreach (var item in Model.listOurProduct)
                 {
+                    <form asp-page="/Product/Product" asp-page-handler="Add" method="post">
                     <div class="col-sm-6 col-md-4 col-lg-3">
                         <div class="box">
                             <div>
@@ -163,15 +165,27 @@
                                     <h6>
                                         @item.Price
                                     </h6>
+                                    <input type="hidden" asp-for="ItemId" value="@item.CakeId" />
+                                    <input asp-for="Quantity" />
+                                    <button type="submit" name="add" style="color: black">
+                                        Add to cart
+                                    </button>
                                 </div>
+
                             </div>
                         </div>
                     </div>
+                    </form>
                 }
 
             </div>
             <form asp-page="/Product/Product" method="get">
-                <input type="submit" name="ShowAll" value="View All Product" />
+                <div style="float: right">
+                    <button id="pre" type="submit" name="pre" value="pre"> <<< </button>
+                    <input name="paging" style="width: 40px; margin-top: 10px" />
+                    <button id="post" type="submit" name="post" value="post"> >>> </button>
+                </div>
+
             </form>
         </div>
     </section>
@@ -243,12 +257,7 @@
                     </div>
                 </div>
             </div>
-            <div class="footer-info">
-                <p>
-                    &copy; <span id="displayYear"></span> All Rights Reserved By
-                    <a href="https://html.design/">Free Html Templates</a>
-                </p>
-            </div>
+
         </div>
     </footer>
     <!-- footer section -->
